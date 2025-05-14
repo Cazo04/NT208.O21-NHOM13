@@ -43,7 +43,7 @@
         <div class="row align-items-center" style="background: white;">
             <div class="col-12 col-md-6">
                 <div class="image-wrapper">
-                <img src="public\img\<?php echo $row['thumbnail']?>"  style="height: 100%;">
+                <img src="public\img\foodimg\<?php echo $row['thumbnail']?>"  style="height: 100%;">
                 </div>
             </div>
             <div class="col-12 col-md">
@@ -111,7 +111,7 @@
                 <div class="item-wrapper align-center">
 
                     <div class="card-img">
-                        <img src="public\img\<?php echo $row['thumbnail']?>" >
+                        <img style="border-radius: 10px;" src="public\img\foodimg\<?php echo $row['thumbnail']?>" >
                     </div>
 
                     <svg xmlns="http://www.w3.org/2000/svg" id="Layer_1" data-name="Layer 1" viewBox="0 0 254.99 483.96" class="product-shape-hover-img" src="http://demo.themewinter.com/wp/gloreya/wp-content/themes/gloreya/public/jquery/enu_shape_hover.svg" alt="Quarter Onion">

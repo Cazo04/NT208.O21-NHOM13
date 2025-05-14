@@ -3,7 +3,7 @@
 <html  >
 <head>
   <!-- Site made with Mobirise Website Builder v4.11.4, m -->
-  <base href="http://localhost/banthucpham/">
+  <base href="/banthucpham/">
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="generator" content="Mobirise v4.11.4, mobirise.com">
@@ -26,7 +26,8 @@
   <link rel="stylesheet" href="public/style/css\style.css">
   <link rel="stylesheet" href="public/style/recaptcha.css">
   <link rel="stylesheet" href="public\style\css\csscu\style.css">
-  <link rel="preload" as="style" href="public/style/css/mbr-additional.css"><link rel="stylesheet" href="public/style/css/mbr-additional.css" type="text/css">
+  <link rel="preload" as="style" href="public/style/css/mbr-additional.css">
+  <link rel="stylesheet" href="public/style/css/mbr-additional.css?v=2" type="text/css">
   <script type="module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"></script>
     <script nomodule src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"></script>
     <link rel="stylesheet" href="mobirise/style.css">
